@@ -1,6 +1,8 @@
 HP
 ==
 
+Unless otherwise specified, the listed laptops use Precision Touchpad.
+
 - HP Spectre x360 13"
 
   - 2017 - Not precision, uses Synaptics
