@@ -2,12 +2,17 @@
 #+AUTHOR: Joon Ro
 
 It is not easy to find out if a laptop has a precision touchpad, so I wanted
-to create a comprehensive list of windows laptops with precision toucphad.
-I merely will add ones that I know the ones have (and have not) precision toucphad, so 
-contributions are welcome. (Should be very easy, you can directly edit the list in Github).
+to create a list of windows laptops with precision toucphad.  I merely will
+add ones that I know the ones have (and have not) precision toucphad, so
+contributions are welcome. (Should be very easy, you can directly edit the
+list in Github). It would be great if you can provide the source of
+information (URL to review page or youtube review) as well.
 
 There is a good list at [[http://www.windowscentral.com/complete-list-laptops-precision-touchpads][Windows Central]], but it is not comprehensive, and it was not clear 
 how to contribute to the list. 
+
+Also I think it is important to have a list of laptops that do not use
+precision toucphad to avoid confusion.
 
 You can see the rendered version at http://list-of-windows-laptops-with-precision-touchpad.readthedocs.io/.
 
