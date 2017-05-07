@@ -16,6 +16,7 @@ Contents:
    HP
    Lenovo
    Microsoft
+   Samsung
 
 
 
