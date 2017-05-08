@@ -24,6 +24,7 @@ Contents:
    Dell
    HP
    Lenovo
+   LG
    Microsoft
    Samsung
 

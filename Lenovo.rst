@@ -14,4 +14,4 @@ Unless otherwise specified, the listed laptops use Precision Touchpad.
       four new ThinkPad T Ultrabook models, and the less-expensive ThinkPad
       13, will include support for Microsoft’s Windows Precision Touchpad"
 
-- Lenovo Legion Y520 - Not precision, uses Elan (`Source <https://youtu.be/4yo5DU113wI?t=6m57s>`_)
+- Lenovo Legion Y520 - Not Precision, uses Elan (`Source <https://youtu.be/4yo5DU113wI?t=6m57s>`_)
