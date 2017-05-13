@@ -6,7 +6,9 @@ Unless otherwise specified, the listed laptops use Precision Touchpad.
 
 - Yoga
 
-  - 910
+  - 710 (Not Precision, `Source <http://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/yoga-series/yoga-710-15isk/downloads/ds112960>`_)
+  - 720 (`Source <https://www.digitaltrends.com/computing/yoga-720-first-take-mwc2017/>`_)
+  - 910 (`Source <https://www.theverge.com/2016/11/28/13758382/lenovo-yoga-910-review-laptop-windows-10-convertible>`_)
 
 - ThinkPad 2017 models (Source: `The Verge <https://www.theverge.com/2016/12/28/14094604/lenovo-thinkpad-enterprise-pc-kaby-lake-windows-hello-usb-c>`_)
 
