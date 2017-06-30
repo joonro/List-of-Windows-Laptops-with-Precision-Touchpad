@@ -1,7 +1,7 @@
 Dell
 ====
 
-Unless otherwise specified, the listed laptops use Precision Touchpad.
+Unless otherwise specified, laptops listed here use Precision Touchpad.
 
 - XPS 13
 
@@ -15,5 +15,5 @@ Unless otherwise specified, the listed laptops use Precision Touchpad.
   
 - Alienware
 
-  - 17 R4 (2017): Not precision (Uses Synaptics - `Source: <https://youtu.be/fURkRSbO20k?t=4m>`_)
+  - 17 R4 (2017): Not precision (Synaptics - `source <https://youtu.be/fURkRSbO20k?t=4m>`_)
 

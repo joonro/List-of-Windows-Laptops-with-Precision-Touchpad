@@ -2,7 +2,7 @@
 Lenovo
 ======
 
-Unless otherwise specified, the listed laptops use Precision Touchpad.
+Unless otherwise specified, laptops listed here use Precision Touchpad.
 
 - Yoga
 

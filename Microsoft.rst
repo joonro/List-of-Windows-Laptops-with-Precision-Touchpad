@@ -1,7 +1,7 @@
 Microsoft
 =========
 
-Unless otherwise specified, the listed laptops use Precision Touchpad.
+Unless otherwise specified, laptops listed here use Precision Touchpad.
 
 - Surface Pro 3
 - Surface Pro 4

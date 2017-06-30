@@ -1,7 +1,7 @@
 HP
 ==
 
-- Unless otherwise specified, the listed laptops use Precision Touchpad.
+- Unless otherwise specified, laptops listed here use Precision Touchpad.
 - As of May 2017, most of consumer HP laptops do not use Precision
   Touchpad. (Many of `business
   <http://www.windowscentral.com/complete-list-laptops-precision-touchpads>`_
