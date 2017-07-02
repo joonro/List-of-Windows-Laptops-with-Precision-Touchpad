@@ -1,4 +1,4 @@
-Asus
+ASUS
 ====
 
 Unless otherwise specified, laptops listed here use Precision Touchpad.
