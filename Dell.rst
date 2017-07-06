@@ -3,6 +3,18 @@ Dell
 
 Unless otherwise specified, laptops listed here use Precision Touchpad.
 
+Alienware
+---------
+
+- 17 R4 (2017): Not precision (Synaptics - `source <https://youtu.be/fURkRSbO20k?t=4m>`_)
+
+Inspiron
+--------
+
+- 15 7000 Series: 7559 (`Source
+  <http://en.community.dell.com/support-forums/laptop/f/3518/t/19996020>`_),
+  7567 (`Source <https://youtu.be/ZQFn1Z-x9DQ?t=3m14s>`_)
+
 XPS Series
 ----------
 
@@ -10,8 +22,3 @@ XPS Series
 
 - 15: 9550, 9560
   
-Alienware
----------
-
-- 17 R4 (2017): Not precision (Synaptics - `source <https://youtu.be/fURkRSbO20k?t=4m>`_)
-
