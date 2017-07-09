@@ -27,6 +27,7 @@ Contents:
    Lenovo
    LG
    Microsoft
+   MSI
    Samsung
 
 
