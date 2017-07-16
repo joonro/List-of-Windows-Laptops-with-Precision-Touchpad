@@ -24,6 +24,7 @@ Contents:
    ASUS
    Dell
    HP
+   Huawei
    Lenovo
    LG
    Microsoft
