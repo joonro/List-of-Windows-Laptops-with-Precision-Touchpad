@@ -3,6 +3,7 @@ Acer
 
 Unless otherwise specified, laptops listed here use Precision Touchpad.
 
+- Acer Spin 3 (`source <https://www.cnet.com/products/acer-spin-3-sp315-51-79nt-15-6-core-i7-6500u-12-gb-ram-1-tb-hdd/specs/>`_)
 - Helios 300 (`source <https://youtu.be/No5RbW1A2Ss?t=2m21s>`_)
 
 

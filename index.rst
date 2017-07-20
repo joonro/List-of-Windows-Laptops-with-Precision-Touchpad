@@ -23,6 +23,7 @@ Contents:
    Acer
    ASUS
    Dell
+   EVGA
    HP
    Huawei
    Lenovo
