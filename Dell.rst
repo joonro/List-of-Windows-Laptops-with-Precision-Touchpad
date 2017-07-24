@@ -15,6 +15,12 @@ Inspiron
   <http://en.community.dell.com/support-forums/laptop/f/3518/t/19996020>`_),
   7567 (`Source <https://youtu.be/ZQFn1Z-x9DQ?t=3m14s>`_)
 
+Precision Workstations
+----------------------
+
+- Precision 5510
+- Precision 7710: Not precision, uses ALPS (`source <http://forum.notebookreview.com/threads/hands-on-dell-precision-7710.785166/page-84>`_)
+
 XPS Series
 ----------
 

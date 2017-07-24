@@ -21,3 +21,26 @@ HP
 
   - 2016: Not Precision
   - 2017: Not Precision (Elan, `source <https://youtu.be/3AJoyXX20Kg?t=2m24s>`_)
+
+
+- The following laptops (`source <https://support.hp.com/si-en/document/c05298784>`_)
+- Elite x2 1012 G1
+- EliteBook 1030 G1 
+- EliteBook 1040 G3
+- EliteBook 725 G3
+- EliteBook 745 G3
+- EliteBook 755 G3
+- EliteBook 820 G3
+- EliteBook 840 G3
+- EliteBook 850 G3
+- EliteBook Folio G1
+- mt42 Mobile Thin Client
+- mt42 Mobile Thin Client (ENERGY STAR)
+- ProBook 640 G2
+- ProBook 645 G2
+- ProBook 650 G2
+- ProBook 655 G2
+- ZBook 15 G3
+- ZBook 15u G3
+- ZBook 17 G3
+- ZBook Studio G3
