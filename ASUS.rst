@@ -12,4 +12,5 @@ Unless otherwise specified, laptops listed here use Precision Touchpad.
 ROG
 ---
 
+- GL553 / GL 753 (`source <https://youtu.be/EnhtpjbNHWY?t=3m>`_)
 - Zephyrus `GX501 <http://www.techradar.com/reviews/asus-rog-zephyrus>`_
