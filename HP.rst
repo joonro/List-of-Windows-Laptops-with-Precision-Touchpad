@@ -11,6 +11,10 @@ HP
 
   - 2017: Not Precision (Synaptics, `source <http://www.expertreviews.co.uk/hp/hp-envy-13>`_)
 
+- Omen
+
+  - 2017: Not Precision (Synaptics, `source <https://youtu.be/kUDjt4gjMO4?t=1m19s>`_)
+
 - Spectre x360
 
   - 13" and 15"
