@@ -20,6 +20,7 @@ Precision Workstations
 
 - Precision 5510
 - Precision 7710: Not precision, uses ALPS (`source <http://forum.notebookreview.com/threads/hands-on-dell-precision-7710.785166/page-84>`_)
+- Precision 7720: Not precision, uses ALPS (`source <http://forum.notebookreview.com/threads/precision-7720-what-does-narrow-border-mean.807088/page-2>`_)
 
 XPS Series
 ----------
