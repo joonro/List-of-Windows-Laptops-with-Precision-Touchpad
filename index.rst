@@ -11,8 +11,13 @@ Touchpad.  Currently it contains a small subset of laptops - if a model is not
 listed, then I simply do not know if it has precision touchpad or not. To avoid
 confusion, I will add laptops do not use precision touchpad as well.
 
-You can contribute to the list directly through `Github <https://github.com/joonro/List-of-Windows-Laptops-with-Precision-Touchpad>`_
+You can contribute to the list directly through `Github
+<https://github.com/joonro/List-of-Windows-Laptops-with-Precision-Touchpad>`_
 It would be great if you can provide the source of information as well.
+
+It seems you can force laptops with Synaptics and Elan touchpads to use Precision drivers.
+See this `reddit post <https://www.reddit.com/r/Windows10/comments/6qz30h/enable_precision_touchpad_on_hp_spectre_x360_2017/>`_ and
+`YouTube video <https://www.youtube.com/watch?v=5MRpAsAhsvY>`_.
 
 
 Contents:
