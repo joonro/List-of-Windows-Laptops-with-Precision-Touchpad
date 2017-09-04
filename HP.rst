@@ -7,6 +7,10 @@ HP
   <http://www.windowscentral.com/complete-list-laptops-precision-touchpads>`_
   ones do)
 
+.. note:: You should be able to install Precision drivers on HP laptops
+          with Synaptis touchpad following the instructions at
+          https://www.windowscentral.com/how-enable-precision-touchpad-drivers.
+
 - Envy 13
 
   - 2017: Not Precision (Synaptics, `source <http://www.expertreviews.co.uk/hp/hp-envy-13>`_)

@@ -6,7 +6,13 @@ Unless otherwise specified, laptops listed here use Precision Touchpad.
 Alienware
 ---------
 
+- 17 R3: Not precision (Synaptics)
 - 17 R4 (2017): Not precision (Synaptics - `source <https://youtu.be/fURkRSbO20k?t=4m>`_)
+
+.. note:: You should be able to install Precision drivers on Alienware laptops
+          with Synaptis touchpad following the instructions at
+          https://www.windowscentral.com/how-enable-precision-touchpad-drivers.
+          
 
 Inspiron
 --------
